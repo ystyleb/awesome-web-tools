@@ -111,6 +111,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Image Compressor](https://dailytoolkit.app/tools/image-compressor) - Compress JPG, PNG and WebP images in the browser.
 - [Image Cropper](https://dailytoolkit.app/tools/image-cropper) - Crop images to custom sizes and aspect ratios.
 - [Image Resizer](https://dailytoolkit.app/tools/image-resizer) - Resize images to exact dimensions without uploads.
+- [Image to ASCII Art](https://tomaserben.com/free-tools/image-to-ascii-art) - Convert photos to ASCII art in the browser, no signup.
 - [JPG to PNG Converter](https://dailytoolkit.app/tools/jpg-to-png-converter) - Convert JPG images to PNG in the browser.
 - [Photopea](https://www.photopea.com) - Free browser-based photo editor.
 - [PNG to JPG Converter](https://dailytoolkit.app/tools/png-to-jpg-converter) - Convert PNG images to JPG in the browser.
